@@ -13,6 +13,7 @@ void solve(){
     }
     int sum = accumulate(v.begin(),v.end(),0);
     cout<<-sum<<endl;
+    
 }
 
 int32_t main(){
